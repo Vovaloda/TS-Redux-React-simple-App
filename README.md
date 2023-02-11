@@ -1,2 +1,1 @@
-Приложение на React, Redux, TS, которое подгружает профили пользователей и список дел. Есть пагинация для списка дел
-An application on React, Redux, TS that loads user profiles and a to-do list. There is a pagination for the to-do list
+An application on React, Redux, TS that loads user profiles and a to-do list. There is a pagination for a to-do list Application on React, Redux, TS, which loads user profiles and a to-do list. A pagination is provided for the to-do list
